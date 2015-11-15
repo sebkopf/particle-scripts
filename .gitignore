@@ -1,3 +1,7 @@
+# Ignore work in progress files for now
+work_in_progress/
+todo_list.md
+
 # Compiled Object files
 *.slo
 *.lo
