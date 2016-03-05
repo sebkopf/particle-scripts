@@ -1,0 +1,6 @@
+# Note, this should be submodule but at the moment not possible yet because
+# Particle Dev flattens the folder structure and then the examples within the
+# LiqudCrystal_I2C_Spark fail the build. Revisit after next major Particle Dev
+# update
+LiquidCrystal_I2C_Spark.cpp
+LiquidCrystal_I2C_Spark.h
