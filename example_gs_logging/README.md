@@ -23,4 +23,8 @@ Simply change add the `DeviceID` in `gs_logging.ino` and adjust the variable nam
 
 ## Troubleshooting
 
-If you're running in the [particle cloud](https://build.particle.io), make sure that you're including the `HttpClient` library with `#include "HttpClient/HttpClient.h"` whereas in the [particle dev IDE](https://www.particle.io/dev) only flat folder structure was allowed at the time of this writing so you'll have to copy the firmware files from the [`HttpClient` library]([`HttpClient`](https://github.com/nmattisson/HttpClient) to the same folder as `gs_logging.ino` and include with `#include "HttpClient.h"`,
+If you're running in the [particle cloud](https://build.particle.io), make sure that you're including the `HttpClient` library with `#include "HttpClient/HttpClient.h"` whereas in the [particle dev IDE](https://www.particle.io/dev) only flat folder structure was allowed at the time of this writing so you'll have to copy the firmware files from the [`HttpClient` library]([`HttpClient`](https://github.com/nmattisson/HttpClient) to the same folder as `gs_logging.ino` and include with `#include "HttpClient.h"`.
+
+## Notes
+
+Pushing box now also provides some helpful links to code samples at https://www.pushingbox.com/api.php

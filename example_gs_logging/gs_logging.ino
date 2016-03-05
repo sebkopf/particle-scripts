@@ -89,7 +89,7 @@ void loop(void) {
     } else if (response.status == 200) {
       Serial.println("request succesful.");
     } else {
-      Serial.println("uknown response status: " + String(response.status));
+      Serial.println("unknown response status: " + String(response.status));
     }
 
     last_log = millis();
