@@ -4,7 +4,8 @@ This is a collection of code snippets for particle (formerly spark) hardware lik
 
 ## Scripts
 
- - [Example for logging data straight to google spreadsheet](gs_logging/)
+ - [Example for logging data straight to google spreadsheet](example_gs_logging/)
+ - [Example for using an I2C connected LCD screen](example_lcd_i2c/)
 
 
 ## Other notes
