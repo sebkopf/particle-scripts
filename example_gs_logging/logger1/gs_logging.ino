@@ -2,7 +2,6 @@
 #define LOG_INTERVAL_MS 60 * 1000 // changing logging frequency here
 unsigned long last_log = millis();
 
-char device_name[20];
 char date_time[20];
 char data[255]; // limit allowed
 
