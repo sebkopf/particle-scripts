@@ -18,7 +18,7 @@ This implementation is very neat but (at the moment) the web app needs to be pub
 
 #### Code
 
-The [`logger1`](/logger1/) example includes slightly modified code from the `particlePostGoogle` repository but all credit goes to the original author. Please just follow the original [installation instructions](https://github.com/deancs/particlePostGoogle) and copy/modify the code from this repository.
+The [`logger1`](/example_gs_logging/logger1/) example includes slightly modified code from the `particlePostGoogle` repository but all credit goes to the original author. Please just follow the original [installation instructions](https://github.com/deancs/particlePostGoogle) and copy/modify the code from this repository.
 
 ## HTTPS forwarding (arduino and photon)
 
